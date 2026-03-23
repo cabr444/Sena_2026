@@ -6,4 +6,4 @@ plataforma SENA posteriormente como almacenamiento de evidencias seran
 subidas a este repositorio.
 
 ### Actividades
-- Actividad_1 -> Array unidim
+- Actividad_1 -> Array unidimensional
